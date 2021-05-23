@@ -1,0 +1,8 @@
+This a Multiple Linear Regression project performed on Housing dataset to predict Price of the house based on different variables.
+
+The tasks performed in the problem are:
+  - Reading, Understanding and Visualising data
+  - Preparing the data for modelling
+  - Training the model
+  - Residual Analysis
+  - Prediction and Evaluation of Test set
